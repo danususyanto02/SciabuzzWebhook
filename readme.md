@@ -1,5 +1,5 @@
 ## About The Project | Tentang Project
-EN: Webhook To Get Notification Saweria Donation.
+EN: Webhook To Get Notification Sociabuzz Donation.
 
 ID: Webhook Untuk Mendapat Notifikasi Donasi Saweria.
 
