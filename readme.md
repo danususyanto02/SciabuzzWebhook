@@ -1,7 +1,7 @@
 ## About The Project | Tentang Project
 EN: Webhook To Get Notification Sociabuzz Donation.
 
-ID: Webhook Untuk Mendapat Notifikasi Donasi Saweria.
+ID: Webhook Untuk Mendapat Notifikasi Donasi Sociabuzz.
 
 Youtube: https://youtu.be/bAvIS6-exZg
 
@@ -15,7 +15,7 @@ ID: Yang diperlukan sebelum menggunakan kode program.
 
 * Node JS https://nodejs.org/en/download/
 * Ngrok https://ngrok.com/download
-* Saweria Account | Akun Saweria
+* Sociabuzz Account | Akun Sociabuzz
 
 
 ## Action From Notification | Aksi Dari Notifikasi
