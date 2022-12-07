@@ -3,7 +3,7 @@ EN: Webhook To Get Notification Sociabuzz Donation.
 
 ID: Webhook Untuk Mendapat Notifikasi Donasi Sociabuzz.
 
-Youtube: https://youtu.be/bAvIS6-exZg
+Youtube: 
 
 
 
